@@ -1,4 +1,4 @@
-# A framework for testing Ionic Conference App agains both Android and iOS
+# A framework for testing Ionic Conference App against both Android and iOS
 
 Basic funtionality with the first test. More tests can be added later on.
 
